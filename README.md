@@ -17,3 +17,8 @@
 ### ภาพรวมระบบ 
 ส่วนที่หนึ่ง Object จะSpawnแล้วผ่าน Vision Sensor หลังจากนั้นก็ผ่านกระบอกลมและกระบอกก็จะทำงานแล้ว ผลัก Object ไปตามทางที่ได้ก าหนดไว้โดยแบ่งตามประเภทของ Objectส่วนที่สองก็คือการลำเลียง Object นั้นไปตามสายพานแล้วเข้าไปยัง Storage เก็บของ
 
+![Screenshot (829)](https://user-images.githubusercontent.com/114386015/194838668-4f604bbd-bc63-4dba-9ce8-e7f24fd21238.png)
+
+https://youtu.be/rSMAIvh15TA
+
+https://youtu.be/-NrnwE0JIY0
