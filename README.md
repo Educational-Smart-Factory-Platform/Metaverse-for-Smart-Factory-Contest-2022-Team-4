@@ -1,4 +1,4 @@
-# Metaverse-for-Smart-Factory-Contest-2022-Team-4-กลัวเสียฟอร์มเลยยอมเสียเธอ
+# Metaverse for Smart Factory Contest 2022
 ผลงานการแข่งขัน Metaverse for Smart Factory Contest 2022 (https://smartfactory.hcilab.net/contest/metaverse2022/)
 ## ชื่อผลงาน โรงงานคัดแยกและกระจายสินค้าอาหารทะเล (Robotic auto sorting aquatic animals factory)
 ### ที่มาและความสำคัญ
@@ -19,6 +19,21 @@
 
 ![Screenshot (829)](https://user-images.githubusercontent.com/114386015/194838668-4f604bbd-bc63-4dba-9ce8-e7f24fd21238.png)
 
+### คลิปสาธิตผลงาน
 https://youtu.be/rSMAIvh15TA
 
 https://youtu.be/-NrnwE0JIY0
+
+## รายชื่อสมาชิกทีม กลัวเสียฟอร์มเลยยอมเสียเธอ
+1. วงศธร เสถียรฤทัย
+2. ธีร์ธวัช กมลทกาภัย
+3. พัทธนนท์ เดชะวลีกุล
+4. ศตพร กิตติสรนันท์
+5. เปรม รักษ์ศิริวณิช
+6. วรรธนันท์ อัฎฐอาชากุล
+7. วีรภัทร ศศิอธิคม
+8. ณัฐเสฏฐ ลิ้มเลิศผลบุญ
+9. ปัณณวัชญ์ มังคลรังษี
+10. ชินธาร ธารมรรค
+## ช่องทางการติดต่อ
+Email: paowattanun@gmail.com
