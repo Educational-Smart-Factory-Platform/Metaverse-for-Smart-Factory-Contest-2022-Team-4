@@ -20,9 +20,7 @@
 ![Screenshot (829)](https://user-images.githubusercontent.com/114386015/194838668-4f604bbd-bc63-4dba-9ce8-e7f24fd21238.png)
 
 ### คลิปสาธิตผลงาน
-https://youtu.be/rSMAIvh15TA
-
-https://youtu.be/-NrnwE0JIY0
+https://youtu.be/QpWpZqeTtZ8
 
 ## รายชื่อสมาชิกทีม กลัวเสียฟอร์มเลยยอมเสียเธอ
 1. วงศธร เสถียรฤทัย
